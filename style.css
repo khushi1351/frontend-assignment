@@ -136,6 +136,7 @@ nav{
 }
 
 .hamburger-menu ul a{
+    font-size: 15px;
     text-decoration: none;
     color: grey;
     text-transform: uppercase;
